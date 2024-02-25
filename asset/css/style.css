@@ -227,6 +227,9 @@ section {
     height: 50px;
     background: darkcyan;
     margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
 }
 
 .contact-info {
@@ -236,7 +239,11 @@ section {
 
 .contact-info ul {
     display: flex;
-    }
+    list-style-type: none;
+    list-style-type: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
 
 .contact-info a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
