@@ -220,3 +220,29 @@
     color: #ffffff;
     background-color: none;
   }
+
+  .footer {
+    display: flex; 
+    flex-wrap: wrap;
+    height: 5%;
+    background: darkcyan;
+ 
+}
+.contact-info {
+    display: inline-block;
+    
+  }  
+
+  .contact-info ul {   
+    display: flex;
+    width: 100%;
+  }
+  
+  /* .contact-info ul li a {
+    font-color: black;
+      font-size: 10px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      line-height: 2;  
+      font-weight: bold;
+} */ 
+  
