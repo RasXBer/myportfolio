@@ -83,10 +83,12 @@ main {
     justify-content: left;
 }
 
-/* @media screen and (max-width: 782px){
+@media screen and (max-width: 782px){
+.about{
 width: 100%;
 text-align: right;
-}; */
+}
+};
 
 .section-title {
     font-size: 20px;
